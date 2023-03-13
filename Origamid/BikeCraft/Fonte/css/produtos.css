@@ -1,0 +1,190 @@
+.interna-produtos{
+  background: url("../img/bg/bgProdutos.jpg") no-repeat;
+  background-size: cover;
+}
+.produtos-item{
+  padding-top: 40px;
+}
+.produto-icone{
+  background:#343142;
+  padding: 68px 0;
+  text-align: center;
+}
+.produtos-item h2{
+  font-size:36px ;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: bold;
+  position: relative;
+  top: -180px;
+  text-align: center;
+  color: white;
+  margin-bottom: -50px;
+}
+
+.produtos-item h2:after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px ;
+  background: white;
+  margin: 5px auto ;
+}
+
+.produtos-item h2::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px ;
+  background: white;
+  margin: 5px auto ;
+}
+.produtos-info{
+  background:#343142;
+  margin-bottom: 20px;
+}
+.produtos-info p{
+  color: white;
+  font-size: 18px;
+  line-height: 25px;
+  padding: 30px 40px;
+  height: 182px;
+}
+.produtos-info ul li{
+background:#1C9CC1;
+float: left;
+text-transform: uppercase;
+line-height: 25px;
+width: 229px;
+height: 49px;
+text-align: center;
+padding-top: 10px;
+font-weight: bold;
+}
+/*odd seleciona os filhos impares e o even os pares*/
+.produtos-info ul li:nth-child(even){
+  float: left;
+  text-transform: uppercase;
+  line-height: 25px;
+  width: 229px;
+  height: 49px;
+  text-align: center;
+  margin-left: 2px;
+  }
+  .produtos-info ul li:nth-child(1){
+    margin-bottom: 2px;
+  }
+  .produtos-info ul li:nth-child(2){
+    margin-bottom: 2px;
+  }
+  
+  /*Formulário Orcamento*/
+  .orcamento {
+    background: #1C9CC1;
+    width: 100%;
+    padding: 40px 0;
+    margin-top: 40px;
+  }
+
+  .orcamento h2{
+    color: #343142;
+    padding-bottom: 30px;
+  }
+
+  .orcamento  h2:after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 3px ;
+    background: #343142;
+    margin: 5px auto ;
+  }
+  .form{
+    padding-right: 60px;
+  }
+  .form label{
+    display: block;
+    color: #343142;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
+  .form input{
+    display: block;
+    width: 100%;
+    border: 4px solid white;
+    background: #67B6CC;
+    color: white;
+    padding: 5px 5px;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .form textarea{
+    display: block;
+    width: 100%;
+    height: 120px;
+    border: 4px solid white;
+    background: #67B6CC;
+    color: white;
+    padding: 5px 5px;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .form .btn{
+   margin: 0px 0px;
+  }
+  .orcamento-dados{
+    color: #343142;
+  }
+  .orcamento-dados span{
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .orcamento-dados h3{
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .orcamento-dados p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin: 30px 0 20px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .orcamento-dados ul{
+    padding-right: 60px;
+  }
+
+  .orcamento-dados ul li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    background: #67B6CC;
+    padding: 5px;
+    text-transform: uppercase;
+    margin: 10px 0;
+    border: white 3px solid;
+    color: white;
+  }
+
+  form .btn {
+    background: #67B6CC;
+  }
+
+  form .btn:hover {
+    background: #343142;
+    border: white 3px solid;
+  }

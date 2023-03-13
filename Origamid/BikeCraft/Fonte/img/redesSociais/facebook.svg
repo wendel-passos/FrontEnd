@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="facebook" transform="translate(-662 -2770.96)">
+    <g id="Retângulo_25" data-name="Retângulo 25" transform="translate(662 2770.96)" fill="#fff" stroke="#707070" stroke-linejoin="round" stroke-width="1">
+      <rect width="26" height="26" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="25" height="25" rx="4.5" fill="none"/>
+    </g>
+    <path id="facebook-2" data-name="facebook" d="M10.785,17.215a.219.219,0,0,0,.22.22h3.13a.219.219,0,0,0,.22-.22V8.649h2.269a.22.22,0,0,0,.219-.2l.218-2.58a.22.22,0,0,0-.218-.238H14.354V3.8a.777.777,0,0,1,.777-.777H16.88a.219.219,0,0,0,.22-.22V.22A.22.22,0,0,0,16.88,0H13.925a3.14,3.14,0,0,0-3.14,3.14V5.629H9.22A.22.22,0,0,0,9,5.848V8.429a.219.219,0,0,0,.22.22h1.565Z" transform="translate(661.95 2775.243)" fill="#1c9cc1" fill-rule="evenodd"/>
+  </g>
+</svg>
