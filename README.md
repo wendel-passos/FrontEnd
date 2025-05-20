@@ -1,2 +1,2 @@
 # FrontEnd
- Formações vontadas ao desenvolvimento FrontEnd
+Base de conhecimento voltado ao desenvolvimento FrontEnd
