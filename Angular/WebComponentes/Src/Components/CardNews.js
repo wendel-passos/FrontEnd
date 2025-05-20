@@ -49,7 +49,7 @@ class CardNews extends HTMLElement {
         const style = document.createElement('style');
         style.textContent = `
             .card {
-                width: 720px;
+                width: 80%;
                 display: flex;
                 justify-content: space-between;
                 box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
